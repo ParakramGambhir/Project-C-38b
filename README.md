@@ -1,8 +1,9 @@
 ## Project-C-38b
 Infinite Runner game... 
-INSTRUCTIONS:
+
+## INSTRUCTIONS:
 ____________________________________________________________________________________
-Goal of the Project:
+## Goal of the Project:
 In Class 38 you learnt how to play around with the camera and set the size of the canvas to
 the height and width of the device.
 In this project, you will have to take one of your games (Trex, Monkey Go Happy) and
@@ -12,7 +13,7 @@ This is a story in your life. The next few hours of creating a game in this proj
 you are creating. Make it a memorable one.
 This is a challenging endeavor and I am sure you will make a great game. Let’s go!
 ____________________________________________________________________________________
-Getting Started:
+## Getting Started:
 1. Make a copy of one of your existing games to start this project.
 2. Rename the folder as Project 38.
 3. Import this folder into VS Code.
